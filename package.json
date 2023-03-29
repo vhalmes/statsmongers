@@ -1,0 +1,25 @@
+{
+  "name": "statsmongers",
+  "version": "1.0.0",
+  "description": "statsmongers testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhalmes/statsmongers.git"
+  },
+  "author": "VH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhalmes/statsmongers/issues"
+  },
+  "homepage": "https://github.com/vhalmes/statsmongers#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
